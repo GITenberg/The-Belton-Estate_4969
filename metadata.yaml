@@ -1,0 +1,34 @@
+_repo: The-Belton-Estate_4969
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: '"The Belton estate (1865) by Anthony Trollope is a fine example of the
+  author''s favorite subjects: social and family relationships, inheritance, a young
+  woman faced with the delicate choice of worthy husbands, and a sophisticated portrayal
+  of British Victorian life. Clara Amedroz, the lady in question, must find her place,
+  after deaths in the family leave her vulnerable and without a fortune. Her home,
+  the Belton Estate, has been entailed. And before happiness can be had, Clara must
+  be sensible, patient, and above all tactful in the face of difficulty, not to mention
+  an unspeakable mother-in-law"--P. [4] of cover.'
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4969'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Somerset (England) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Belton Estate
+url: http://www.gutenberg.org/ebooks/4969
