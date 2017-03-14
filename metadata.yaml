@@ -1,5 +1,8 @@
 _repo: The-Belton-Estate_4969
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Trollope, Anthony
@@ -16,6 +19,8 @@ description: '"The Belton estate (1865) by Anthony Trollope is a fine example of
   the Belton Estate, has been entailed. And before happiness can be had, Clara must
   be sensible, patient, and above all tactful in the face of difficulty, not to mention
   an unspeakable mother-in-law"--P. [4] of cover.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4969#The-Belton-Estate
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
